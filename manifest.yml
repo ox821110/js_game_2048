@@ -1,4 +1,7 @@
+  
 ---
 applications:
- - name: Game2048
-   memory: 128M
+ - name: game2048
+   path: target/game.war
+   memory: 256M
+   instances: 1
