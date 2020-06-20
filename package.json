@@ -1,5 +1,5 @@
 {
-  "name": "Game 2048",
+  "name": "Game2048",
   "main": "main.js",
   "description": "A Small Game",
   "version": "1.0",
@@ -9,11 +9,5 @@
   },
   "scripts": {
     "start": "node main.js"
-  },
-  "dependencies": {
-    "body-parser": "^1.17.x",
-    "cfenv": "^1.0.x",
-    "dotenv": "^4.0.0",
-    "express": "^4.15.x"
   }
 }
