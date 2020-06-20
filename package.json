@@ -3,8 +3,7 @@
   "main": "main.js",
   "description": "A Small Game",
   "version": "1.1",
-  "private": false
-  },
+  "private": false,
   "scripts": {
     "start": "node main.js"
   }
