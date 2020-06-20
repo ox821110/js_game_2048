@@ -2,5 +2,4 @@
 ---
 applications:
  - name: game2048
-   memory: 256M
    instances: 1
