@@ -1,5 +1,5 @@
   
 ---
 applications:
- - name: game2048
+ - name: startdemo
    instances: 1
